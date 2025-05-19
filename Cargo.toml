@@ -16,8 +16,8 @@ icondata = "0.5"
 
 [dependencies]
 icondata_core = "0.1"
-#leptos = { git = "https://github.com/leptos-rs/leptos", branch = "main" }
-leptos = { version = "0.8.0" }
+leptos = { git = "https://github.com/leptos-rs/leptos", branch = "main" }
+#leptos = { version = "0.8.0" }
 
 # For -Zminimal-versions
 [target.'cfg(any())'.dependencies]
